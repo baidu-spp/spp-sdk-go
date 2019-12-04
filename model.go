@@ -1,4 +1,4 @@
-package main
+package push
 
 type PushResponse struct {
 	RequestID uint32      `json:"request_id,omitempty"`

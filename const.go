@@ -1,4 +1,4 @@
-package main
+package push
 
 const (
 	DefaultDomain = "https://sofire.baidu.com"
